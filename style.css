@@ -73,3 +73,22 @@ font-family: "Oswald";
     display: block;
 }
 
+@media (max-width: 48rem) {
+  .heading {
+    font-size: 2rem;
+  }
+
+  .letters {
+    font-size: 1.3rem;
+  }
+
+  .panin {
+    height: 1.25rem;
+    width: 1.25rem;
+  }
+ .level:hover .picture {
+    height: 15.5rem;
+    width: 15.5rem;
+ }
+}
+
